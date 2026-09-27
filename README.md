@@ -1,2 +1,2 @@
-# GOVERNMENT-JOB-ELIGIBILITY-
-A SOCIO-DEMOGRAPHIC AND SOCIO-ECONOMIC ANALYSIS OF GOVERNMENT JOB ELIGIBILITY IN A SEMI URBAN LOCALITY
+government-job-eligibility 
+a socio-demographic and socio-economic analysis of government job eligibility in a semi urban locality
